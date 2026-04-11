@@ -47,21 +47,14 @@ Desde los laboratorios IBM, Codd publica *"A Relational Model of Data for Large 
 ---
 
 ### 1977 &nbsp;·&nbsp; `Instituciones`
-**Nace el IASC — estadística y computación se unen**
+**Nace el IASC: estadística y computación se unen**
 
 Se funda el International Association for Statistical Computing con la misión de unir la metodología estadística clásica con la tecnología computacional moderna. Es la primera institución que reconoce formalmente este cruce de disciplinas.
 
 ---
 
-### 1985 &nbsp;·&nbsp; `Estadística Computacional`
-**La estadística computacional madura con nuevas herramientas y métodos**
-
-El crecimiento del poder de cómputo permite aplicar métodos estadísticos avanzados como bootstrap y simulaciones Monte Carlo. Herramientas como SAS y SPSS se adoptan ampliamente en empresas y universidades, consolidando el análisis cuantitativo de datos como práctica profesional.
-
----
-
 ### 1995 &nbsp;·&nbsp; `Minería de Datos`
-**Se formaliza el data mining como disciplina con el proceso KDD**
+**Se formaliza el data mining como disciplina**
 
 Se establece el proceso de Descubrimiento de Conocimiento en Bases de Datos (KDD), formalizando cómo extraer patrones útiles de grandes volúmenes de datos. Se desarrollan algoritmos clave como árboles de decisión, clustering y reglas de asociación, que más adelante serán fundamentales en el machine learning.
 
@@ -119,7 +112,7 @@ Harvard Business Review publica el artículo "Data Scientist: The Sexiest Job of
 ### 2014 &nbsp;·&nbsp; `Deep Learning`
 **Las redes neuronales profundas transforman la visión artificial**
 
-Las arquitecturas de deep learning —impulsadas por GPUs y datasets masivos— empiezan a superar a los humanos en tareas de reconocimiento de imágenes. Esto redefine lo que la ciencia de datos puede lograr en visión, lenguaje y audio.
+Las arquitecturas de deep learning impulsadas por GPUs y datasets masivos empiezan a superar a los humanos en tareas de reconocimiento de imágenes. Esto redefine lo que la ciencia de datos puede lograr en visión, lenguaje y audio.
 
 ---
 
@@ -138,7 +131,7 @@ Las empresas comienzan a implementar modelos de machine learning en sistemas rea
 ---
 
 ### 2017 &nbsp;·&nbsp; `Arquitectura`
-**"Attention is All You Need" — nace el Transformer**
+**"Attention is All You Need" - nace el Transformer**
 
 Investigadores de Google publican el paper que introduce la arquitectura Transformer. Este modelo, basado en mecanismos de atención, revoluciona el procesamiento del lenguaje natural y sienta las bases de todos los grandes modelos de lenguaje actuales.
 
@@ -175,12 +168,12 @@ Herramientas como DataRobot, Google AutoML y Alteryx permiten construir modelos 
 ### 2025 &nbsp;·&nbsp; `IA Explicable`
 **La transparencia en los modelos se vuelve prioritaria**
 
-Crece la adopción de técnicas de IA explicable (XAI) como SHAP y LIME, que ayudan a entender cómo llegan a sus conclusiones los modelos. Las organizaciones exigen justificar sus decisiones algorítmicas ante clientes, reguladores y auditores.
+Las organizaciones exigen justificar sus decisiones algorítmicas ante clientes, reguladores y auditores.
 
 ---
 
 ### 2026 &nbsp;·&nbsp; `Hoy`
-**Computación cuántica y datos en tiempo real en el horizonte**
+**Computación cuántica y datos en tiempo real**
 
 Google, IBM y Microsoft avanzan en computación cuántica aplicada al análisis de datos. Paralelamente, los pipelines de datos en tiempo real (streaming) y los agentes de IA autónomos empiezan a reemplazar flujos de trabajo que antes requerían intervención humana constante.
 
