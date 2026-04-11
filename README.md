@@ -41,137 +41,151 @@ El científico danés Peter Naur usa por primera vez el término como alternativ
 
 ### 1970 &nbsp;·&nbsp; `Bases de Datos`
 **Edgar F. Codd propone el modelo relacional y sienta las bases de SQL**
+
 Desde los laboratorios IBM, Codd publica *"A Relational Model of Data for Large Shared Data Banks"*, proponiendo organizar los datos en tablas relacionadas por valores comunes. Su concepto de independencia de datos revolucionó la gestión de información y dio origen a SQL.
 
 ---
 
 ### 1977 &nbsp;·&nbsp; `Instituciones`
 **Nace el IASC — estadística y computación se unen**
+
 Se funda el International Association for Statistical Computing con la misión de unir la metodología estadística clásica con la tecnología computacional moderna. Es la primera institución que reconoce formalmente este cruce de disciplinas.
 
 ---
 
 ### 1985 &nbsp;·&nbsp; `Estadística Computacional`
 **La estadística computacional madura con nuevas herramientas y métodos**
+
 El crecimiento del poder de cómputo permite aplicar métodos estadísticos avanzados como bootstrap y simulaciones Monte Carlo. Herramientas como SAS y SPSS se adoptan ampliamente en empresas y universidades, consolidando el análisis cuantitativo de datos como práctica profesional.
 
 ---
 
 ### 1995 &nbsp;·&nbsp; `Minería de Datos`
 **Se formaliza el data mining como disciplina con el proceso KDD**
+
 Se establece el proceso de Descubrimiento de Conocimiento en Bases de Datos (KDD), formalizando cómo extraer patrones útiles de grandes volúmenes de datos. Se desarrollan algoritmos clave como árboles de decisión, clustering y reglas de asociación, que más adelante serán fundamentales en el machine learning.
 
 ---
 
 ### 1996 &nbsp;·&nbsp; `Conferencia`
 **Primera conferencia oficial con el nombre "ciencia de datos"**
+
 La Federación Internacional de Sociedades de Clasificación (IFCS) celebra en Japón la primera conferencia titulada oficialmente "Data Science, Classification and Related Methods". El término entra al vocabulario científico global.
 
 ---
 
 ### 2001 &nbsp;·&nbsp; `Disciplina`
 **Cleveland declara la ciencia de datos independiente**
+
 William S. Cleveland publica "Data Science: An Action Plan", proponiendo la ciencia de datos como disciplina autónoma que va más allá de la estadística. Define seis áreas: investigación multidisciplinar, modelos, computación, pedagogía, evaluación de herramientas y teoría.
 
 ---
 
 ### 2002 &nbsp;·&nbsp; `Publicación`
 **Nace el Data Science Journal**
+
 El International Council for Science (CODATA) lanza la primera revista académica dedicada exclusivamente a la ciencia de datos. Un año después, en 2003, la Universidad de Columbia funda The Journal of Data Science, abriendo el campo a toda la comunidad investigadora.
 
 ---
 
 ### 2005 &nbsp;·&nbsp; `Infraestructura`
 **Hadoop democratiza el procesamiento de grandes datos**
+
 Apache lanza Hadoop, un sistema de código abierto que permite distribuir el procesamiento de enormes volúmenes de datos entre múltiples computadoras. Por primera vez, empresas sin recursos de supercomputadoras pueden analizar big data.
 
 ---
 
 ### 2008 &nbsp;·&nbsp; `Profesión`
 **"Data Scientist" aparece como título de trabajo formal**
+
 Jeff Hammerbacher (Facebook) y DJ Patil (LinkedIn) son los primeros en usar oficialmente el título "Data Scientist" en sus organizaciones. El rol mezcla estadística, programación y conocimiento del negocio, y se convierte en referencia para la industria.
 
 ---
 
 ### 2009 &nbsp;·&nbsp; `Herramientas`
 **scikit-learn hace el machine learning accesible en Python**
+
 Se lanza scikit-learn, una librería de Python con algoritmos de aprendizaje automático listos para usar. Su simplicidad reduce drásticamente la barrera de entrada al ML, y Python empieza a desplazar a R y MATLAB como lenguaje principal del campo.
 
 ---
 
 ### 2012 &nbsp;·&nbsp; `Cultura`
 **Harvard llama al científico de datos "el trabajo más sexy del siglo"**
+
 Harvard Business Review publica el artículo "Data Scientist: The Sexiest Job of the 21st Century". La demanda laboral se dispara y universidades de todo el mundo comienzan a diseñar programas específicos de ciencia de datos.
 
 ---
 
 ### 2014 &nbsp;·&nbsp; `Deep Learning`
 **Las redes neuronales profundas transforman la visión artificial**
+
 Las arquitecturas de deep learning —impulsadas por GPUs y datasets masivos— empiezan a superar a los humanos en tareas de reconocimiento de imágenes. Esto redefine lo que la ciencia de datos puede lograr en visión, lenguaje y audio.
 
 ---
 
 ### 2015 &nbsp;·&nbsp; `Herramientas`
 **TensorFlow y el ecosistema de IA open source maduran**
+
 Google lanza TensorFlow como código abierto. Combinado con Keras, PyTorch (2016) y Jupyter Notebooks, se forma el ecosistema moderno de ciencia de datos que hoy usan millones de profesionales e investigadores.
 
 ---
 
 ### 2015 &nbsp;·&nbsp; `Producción`
 **La ciencia de datos entra en producción con MLOps**
+
 Las empresas comienzan a implementar modelos de machine learning en sistemas reales mediante prácticas de MLOps, integrando ciencia de datos con ingeniería de software. El campo se consolida como herramienta clave en sectores como marketing, finanzas, salud y tecnología, dejando de ser solo investigación para convertirse en infraestructura empresarial.
 
 ---
 
 ### 2017 &nbsp;·&nbsp; `Arquitectura`
 **"Attention is All You Need" — nace el Transformer**
+
 Investigadores de Google publican el paper que introduce la arquitectura Transformer. Este modelo, basado en mecanismos de atención, revoluciona el procesamiento del lenguaje natural y sienta las bases de todos los grandes modelos de lenguaje actuales.
 
 ---
 
 ### 2020 &nbsp;·&nbsp; `Modelos de lenguaje`
 **GPT-3 muestra el poder de los grandes modelos de lenguaje**
+
 OpenAI lanza GPT-3 con 175 mil millones de parámetros. Su capacidad para generar texto coherente, traducir, resumir y escribir código demuestra que el escalado de datos y computación puede producir capacidades emergentes inesperadas.
 
 ---
 
 ### 2022 &nbsp;·&nbsp; `Punto de inflexión`
 **ChatGPT lleva la IA generativa al público masivo**
+
 El lanzamiento de ChatGPT en noviembre de 2022 alcanza 100 millones de usuarios en solo 2 meses, convirtiéndose en el producto de mayor crecimiento en la historia de internet. La ciencia de datos deja de ser solo una disciplina técnica y pasa a ser parte de la conversación global.
 
 ---
 
 ### 2023 &nbsp;·&nbsp; `Regulación`
 **La Unión Europea aprueba el primer marco regulatorio de IA**
+
 La EU AI Act establece reglas para el uso responsable de sistemas de IA y datos. Es el primer intento serio de regular el campo a nivel supranacional, reconociendo los riesgos de sesgo, privacidad y opacidad en los modelos de datos.
 
 ---
 
 ### 2024 &nbsp;·&nbsp; `Automatización`
 **AutoML y plataformas no-code democratizan el análisis**
+
 Herramientas como DataRobot, Google AutoML y Alteryx permiten construir modelos predictivos sin escribir código. El perfil del científico de datos evoluciona: ya no basta saber modelar, hay que saber interpretar, comunicar y tomar decisiones éticas basadas en datos.
 
 ---
 
 ### 2025 &nbsp;·&nbsp; `IA Explicable`
 **La transparencia en los modelos se vuelve prioritaria**
+
 Crece la adopción de técnicas de IA explicable (XAI) como SHAP y LIME, que ayudan a entender cómo llegan a sus conclusiones los modelos. Las organizaciones exigen justificar sus decisiones algorítmicas ante clientes, reguladores y auditores.
 
 ---
 
 ### 2026 &nbsp;·&nbsp; `Hoy`
 **Computación cuántica y datos en tiempo real en el horizonte**
+
 Google, IBM y Microsoft avanzan en computación cuántica aplicada al análisis de datos. Paralelamente, los pipelines de datos en tiempo real (streaming) y los agentes de IA autónomos empiezan a reemplazar flujos de trabajo que antes requerían intervención humana constante.
 
 ---
 
 ## Resumen y Conclusión 
 La ciencia de datos pasó de ser un término estadístico de los años 60 a convertirse en uno de los campos más influyentes del siglo XXI. Su evolución no fue lineal: avanzó en saltos impulsados por la tecnología disponible en cada época. Primero la estadística, luego las computadoras, después internet y los datos masivos, y finalmente la inteligencia artificial. Hoy ya no es solo una disciplina técnica, es una herramienta que toca la medicina, la economía, la política y la vida cotidiana.
-
-
-
-
-
-
-
 
