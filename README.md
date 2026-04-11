@@ -194,10 +194,9 @@ Fondo de Cultura Económica.
 **Ortiz Arroyo, D., Rodríguez Henríquez, F., & Coello Coello, C.** (2008).
 Computadoras mexicanas: una breve reseña técnica e histórica. *Revista Digital
 Universitaria UNAM, 9*(9).
-https://www.revista.unam.mx/vol.9/num9
 
 **International Association for Statistical Computing.** (1977). *Mission and
-goals of the IASC*. https://www.iasc-isi.org
+goals of the IASC*. 
 
 **Manrique-Gómez, L., & Borja Gómez, J. H.** (2025). Ciencia de datos para la
 historia: datificar las fuentes para una historia (predictiva). *Historia y
@@ -205,40 +204,34 @@ Grafía*, (64), 97–145. Universidad Iberoamericana.
 
 **CODATA — Committee on Data for Science and Technology.** (2002). *Data science
 journal*. International Council for Science.
-https://datascience.codata.org
 
 **Cleveland, W. S.** (2001). Data science: An action plan for expanding the
 technical areas of the field of statistics. *International Statistical Review,
-69*(1), 21–26. https://doi.org/10.1111/j.1751-5823.2001.tb00477.x
+69*(1), 21–26. 
 
 **Apaza Ramos, G. R., & Ñamo Alayo, E. M.** (2022). Evolución e impacto del
 Big Data en el sector empresarial. *Revista Scientific, 7*(25), 227–242.
-https://doi.org/10.29394/Scientific.issn.2542-2987.2022.7.25.12.227-242
 
 **Saura, J. R., Reyes-Menendez, A., & Thomas, S. B.** (2024). Integración de
 Big Data y Machine Learning: análisis de brechas y tendencias investigativas.
 *Dialnet*.
-https://dialnet.unirioja.es/servlet/articulo?codigo=9886393
 
 **Apache Software Foundation.** (2005). *Apache Hadoop* [Software].
-https://hadoop.apache.org
 
 **Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
 O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J.,
 Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesneau, É.** (2011).
 Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research,
-12*, 2825–2830. https://jmlr.org/papers/v12/pedregosa11a.html
+12*, 2825–2830. 
 
 **Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N.,
 Kaiser, Ł., & Polosukhin, I.** (2017). Attention is all you need. En *Advances
 in neural information processing systems* (Vol. 30).
-https://arxiv.org/abs/1706.03762
 
 **Arriagada-Benítez, M.** (2020). Ciencia de datos: hacia la automatización
 de las decisiones. *Ingeniare: Revista Chilena de Ingeniería, 28*(4), 556–557.
 
 **OpenAI.**. *ChatGPT: Optimizing language models for dialogue* [Blog].
-https://openai.com/blog/chatgpt
 
 **Morales Vargas, A., Pedraza-Jiménez, R., & Codina, L.**. La producción
 documental de la inteligencia artificial y la ciencia de la información en
