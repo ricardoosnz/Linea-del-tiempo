@@ -6,30 +6,35 @@ Es un campo interdisciplinario que combina estadística, matemáticas, programac
 
 ### 1946 &nbsp;·&nbsp; `Computación`
 **ENIAC marca el inicio del procesamiento automatizado de datos**
+
 Presentada al público el 14 de febrero de 1946, ENIAC fue una de las primeras computadoras electrónicas de propósito general. Capaz de ejecutar 5,000 sumas por segundo, permitió pasar del cálculo manual al procesamiento automatizado, sentando las bases del análisis computacional moderno.
 
 ---
 
 ### 1958 &nbsp;·&nbsp; `Inteligencia Artificial`
 **Frank Rosenblatt crea el Perceptrón, primera red neuronal artificial**
+
 Fue la primera red neuronal capaz de aprender modificando sus propios parámetros, introduciendo la idea fundamental de que las máquinas pueden aprender patrones a partir de datos. Es el antecedente directo del deep learning actual.
 
 ---
 
 ### 1962 &nbsp;·&nbsp; `Estadística`
 **John W. Tukey predice el futuro del análisis de datos**
+
 En su artículo "The Future of Data Analysis", Tukey plantea que el análisis de datos debería ser reconocido como una disciplina científica autónoma, separada de la estadística matemática pura.
 
 ---
 
 ### 1963 &nbsp;·&nbsp; `Bases de Datos`
 **Nacen los primeros sistemas de gestión de bases de datos**
+
 Se crean los primeros sistemas de bases de datos, permitiendo almacenar, organizar y recuperar información de manera estructurada. Este avance es clave para manejar grandes volúmenes de datos de forma eficiente.
 
 ---
 
 ### 1966 &nbsp;·&nbsp; `Terminología`
 **Peter Naur acuña "ciencia de datos"**
+
 El científico danés Peter Naur usa por primera vez el término como alternativa a "ciencias computacionales". En 1974 lo consolida en su libro Concise Survey of Computer Methods, permitiendo su adopción académica.
 
 ---
