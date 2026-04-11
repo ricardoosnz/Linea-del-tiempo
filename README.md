@@ -188,8 +188,6 @@ La ciencia de datos pasó de ser un término estadístico de los años 60 a conv
 
 ---
 
-### Antecedentes tecnológicos (1946–1995)
-
 **Coello Coello, C.** (2003). *Breve historia de la computación y sus pioneros*.
 Fondo de Cultura Económica.
 
@@ -200,8 +198,6 @@ https://www.revista.unam.mx/vol.9/num9
 
 **International Association for Statistical Computing.** (1977). *Mission and
 goals of the IASC*. https://www.iasc-isi.org
-
----
 
 **Manrique-Gómez, L., & Borja Gómez, J. H.** (2025). Ciencia de datos para la
 historia: datificar las fuentes para una historia (predictiva). *Historia y
@@ -214,11 +210,6 @@ https://datascience.codata.org
 **Cleveland, W. S.** (2001). Data science: An action plan for expanding the
 technical areas of the field of statistics. *International Statistical Review,
 69*(1), 21–26. https://doi.org/10.1111/j.1751-5823.2001.tb00477.x
-
-
----
-
-### Era digital y explosión (2005–2017)
 
 **Apaza Ramos, G. R., & Ñamo Alayo, E. M.** (2022). Evolución e impacto del
 Big Data en el sector empresarial. *Revista Scientific, 7*(25), 227–242.
@@ -242,8 +233,6 @@ Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research,
 Kaiser, Ł., & Polosukhin, I.** (2017). Attention is all you need. En *Advances
 in neural information processing systems* (Vol. 30).
 https://arxiv.org/abs/1706.03762
-
----
 
 **Arriagada-Benítez, M.** (2020). Ciencia de datos: hacia la automatización
 de las decisiones. *Ingeniare: Revista Chilena de Ingeniería, 28*(4), 556–557.
