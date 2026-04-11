@@ -10,7 +10,7 @@ Presentada al público el 14 de febrero de 1946, ENIAC fue una de las primeras c
 
 ---
 
-### 1957–1958 &nbsp;·&nbsp; `Inteligencia Artificial`
+### 1958 &nbsp;·&nbsp; `Inteligencia Artificial`
 **Frank Rosenblatt crea el Perceptrón, primera red neuronal artificial**
 Fue la primera red neuronal capaz de aprender modificando sus propios parámetros, introduciendo la idea fundamental de que las máquinas pueden aprender patrones a partir de datos. Es el antecedente directo del deep learning actual.
 
