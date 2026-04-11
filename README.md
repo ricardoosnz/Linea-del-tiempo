@@ -1,4 +1,8 @@
-# Linea-del-tiempo
+# Ciencia de datos
+Es un campo interdisciplinario que combina estadística, matemáticas, programación e inteligencia artificial para recolectar, procesar y analizar grandes volúmenes de datos tanto estructurados como no estructurados con el objetivo de extraer conocimiento útil que apoye la toma de decisiones.
+
+
+## LINEA DEL TIEMPO
 
 ### 1946 &nbsp;·&nbsp; `Computación`
 **ENIAC marca el inicio del procesamiento automatizado de datos**
@@ -156,6 +160,8 @@ Google, IBM y Microsoft avanzan en computación cuántica aplicada al análisis 
 
 ---
 
+## Resumen y Conclusión 
+La ciencia de datos pasó de ser un término estadístico de los años 60 a convertirse en uno de los campos más influyentes del siglo XXI. Su evolución no fue lineal: avanzó en saltos impulsados por la tecnología disponible en cada época. Primero la estadística, luego las computadoras, después internet y los datos masivos, y finalmente la inteligencia artificial. Hoy ya no es solo una disciplina técnica, es una herramienta que toca la medicina, la economía, la política y la vida cotidiana.
 
 
 
