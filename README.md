@@ -184,7 +184,7 @@ La ciencia de datos pasó de ser un término estadístico de los años 60 a conv
 
 ---
 
-## Fuentes académicas
+## Bibliografa
 
 ---
 
