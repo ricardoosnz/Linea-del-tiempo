@@ -1,6 +1,7 @@
 # Ciencia de datos
 Es un campo interdisciplinario que combina estadística, matemáticas, programación e inteligencia artificial para recolectar, procesar y analizar grandes volúmenes de datos tanto estructurados como no estructurados con el objetivo de extraer conocimiento útil que apoye la toma de decisiones.
 
+_________
 
 ## LINEA DEL TIEMPO
 
@@ -175,18 +176,16 @@ Las organizaciones exigen justificar sus decisiones algorítmicas ante clientes,
 ### 2026 &nbsp;·&nbsp; `Hoy`
 **Computación cuántica y datos en tiempo real**
 
-Google, IBM y Microsoft avanzan en computación cuántica aplicada al análisis de datos. Paralelamente, los pipelines de datos en tiempo real (streaming) y los agentes de IA autónomos empiezan a reemplazar flujos de trabajo que antes requerían intervención humana constante.
+Google, IBM y Microsoft avanzan en computación cuántica aplicada al análisis de datos. Paralelamente, los agentes de IA autónomos empiezan a reemplazar flujos de trabajo que antes requerían intervención humana constante.
 
----
+_________
 
 ## Resumen y Conclusión 
 La ciencia de datos pasó de ser un término estadístico de los años 60 a convertirse en uno de los campos más influyentes del siglo XXI. Su evolución no fue lineal: avanzó en saltos impulsados por la tecnología disponible en cada época. Primero la estadística, luego las computadoras, después internet y los datos masivos, y finalmente la inteligencia artificial. Hoy ya no es solo una disciplina técnica, es una herramienta que toca la medicina, la economía, la política y la vida cotidiana.
 
----
+_________
 
-## Bibliografa
-
----
+## Referencias
 
 **Coello Coello, C.** (2003). *Breve historia de la computación y sus pioneros*.
 Fondo de Cultura Económica.
