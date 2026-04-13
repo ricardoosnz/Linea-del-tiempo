@@ -124,7 +124,7 @@ Google lanza TensorFlow como código abierto. Combinado con Keras, PyTorch (2016
 
 ---
 
-### 2015 &nbsp;·&nbsp; `Producción`
+### 2016 &nbsp;·&nbsp; `Producción`
 **La ciencia de datos entra en producción con MLOps**
 
 Las empresas comienzan a implementar modelos de machine learning en sistemas reales mediante prácticas de MLOps, integrando ciencia de datos con ingeniería de software. El campo se consolida como herramienta clave en sectores como marketing, finanzas, salud y tecnología, dejando de ser solo investigación para convertirse en infraestructura empresarial.
