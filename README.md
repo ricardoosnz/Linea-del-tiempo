@@ -133,7 +133,7 @@ Las empresas comienzan a implementar modelos de machine learning en sistemas rea
 ---
 
 ### 2017 &nbsp;·&nbsp; `Arquitectura`
-**"Attention is All You Need" — nace el Transformer**
+**"Attention is All You Need" - nace el Transformer**
 
 Investigadores de Google publican el paper que introduce la arquitectura Transformer. Este modelo, basado en mecanismos de atención, revoluciona el procesamiento del lenguaje natural y sienta las bases de todos los grandes modelos de lenguaje actuales.
 
